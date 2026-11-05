@@ -1,8 +1,3 @@
-========================================================================
-PRODUCT NAME: System Optimization & Management Utility
-VERSION: 1.0.0
-========================================================================
-
 1. PRODUCT OVERVIEW
 -------------------
 This utility provides a centralized interface for managing system-level
